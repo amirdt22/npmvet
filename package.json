@@ -16,6 +16,7 @@
   },
   "author": "Andrew Hathaway <andrew@harksys.com>",
   "license": "MIT",
+  "files": ["dist"],
   "bin": {
     "npmvet": "./dist/index.js"
   },
